@@ -3,12 +3,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>Tesla-Cars</artifactId>
+	<artifactId>BK-Tech-1</artifactId>
 	<packaging>war</packaging>
 	
 	<version>0.0.1</version> 
 	
-	<name>maven-web-application</name>
+	<name>BK-Tech-1</name>
 
 	<description>Maven Web Project for Java Project</description>
 
